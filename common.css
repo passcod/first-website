@@ -1,0 +1,23 @@
+body {
+    background-color: #444444;
+    font-family: Segoe UI, Arial, sans-serif;
+    color: white;
+    font-size: large;
+    background-repeat: no-repeat;
+}
+a, a:visited, a:active {
+    color: white;
+    text-decoration: underline;
+}
+a:hover {
+    text-decoration: none;
+}
+#container {
+    position: absolute;
+    top: 50px;
+    left: 270px;
+    width: 30%;
+}
+ul {
+    margin-left: 50px;
+}
