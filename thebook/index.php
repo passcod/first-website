@@ -74,7 +74,7 @@ file_put_contents('log', file_get_contents('log')."\n".date(DATE_COOKIE)." >> ".
 	</head>
 	<body>
 		<h1>The Book I Dreamt Of</h1>
-		<h2>Here you will find the latest pages of that book.</h2>
+		<h2>Here you will find the latest pages of my book.</h2>
 		<div id="pages">
 			<ul>
 				<li><a href="page.php?_=book">Information and Documents</a></li>
@@ -87,7 +87,7 @@ file_put_contents('log', file_get_contents('log')."\n".date(DATE_COOKIE)." >> ".
 				<br />
 				<dt></dt>
 				<dd id="chapters"><ol>
-					<li><a href="page.php?_=chapter1">49.47.3</a></li>
+					<li><a href="page.php?_=chapter1">28.47.3</a></li>
 				</ol></dd>
 			</dl>
 		</div>

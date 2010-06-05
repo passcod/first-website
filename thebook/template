@@ -2,37 +2,12 @@
 	<head>
 		<title>The Book I Dreamt Of</title>
 		<style type="text/css">
-			/* Diavlo, A font by Jos Buivenga (exljbris) -> www.exljbris.com */
-			@font-face {
-				font-family: "Diavlo Bold";
-				src: local("Diavlo Bold"),
-				url(Diavlo_BOLD_II_37.otf);
-				font-weight: bold;
-			}
-			@font-face {
-				font-family: "Diavlo";
-				src: local("Diavlo Book"),
-				url(Diavlo_BOOK_II_37.otf);
-			}
-			
-			* {
-				font-family: "Diavlo", sans-serif;
-				color: black;
-			}
-			b, strong, h1 {
-				font-family: "Diavlo Bold", sans-serif;
-				font-weight: bold;
-			}
-			
-			a, a:visited {
-				text-decoration: underline;
-			}
-			a:hover {
-				text-decoration: none;
-			}
+			@import url(page.css);
 		</style>
 	</head>
 	<body>
-		page_content_goes_here
+		<div id="container">
+			page_content_goes_here
+		</div>
 	</body>
 </html>
