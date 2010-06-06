@@ -1,5 +1,6 @@
 <html>
 	<head>
+		<link href="favicon.png" rel="shortcut icon" />
 		<title>The Book I Dreamt Of</title>
 		<style type="text/css">
 			@import url(page.css);

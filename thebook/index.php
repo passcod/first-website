@@ -5,6 +5,7 @@ file_put_contents('log', file_get_contents('log')."\n".date(DATE_COOKIE)." >> ".
 ?>
 <html>
 	<head>
+		<link href="favicon.png" rel="shortcut icon" />
 		<title>The Book I Dreamt Of</title>
 		<style type="text/css">
 			/* Diavlo, A font by Jos Buivenga (exljbris) -> www.exljbris.com */
