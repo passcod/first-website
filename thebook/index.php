@@ -55,14 +55,19 @@ file_put_contents('log', file_get_contents('log')."\n".date(DATE_COOKIE)." >> ".
 				display: block;
 				padding-left: 5px;
 			}
-		</style>
-		<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-		<script type="text/javascript">
-			$(function() {
-				$('#ref').append('<a>Refresh pages</a> <span style="font-size: x-small"></span>');
-				$('#ref a').click(refreshPages);
-			});
 			
+			#footer, #footer *  {
+				font-size: small;
+				color: grey;
+			}
+		</style>
+		<script type="text/javascript" src="http://lib/jquery.js"></script>
+		<script type="text/javascript">	
+			$(function() {
+				$('#ref').html('<a name="refr">Refresh pages</a> <span style="font-size: x-small"></span>');
+				$("#ref a[name='refr']").click(refreshPages);
+			});
+		
 			function refreshPages()
 			{
 				$('#ref span').text('Loading...');
@@ -97,9 +102,9 @@ file_put_contents('log', file_get_contents('log')."\n".date(DATE_COOKIE)." >> ".
 		<p id="ref"></p>
 		<br />
 		<p><small>This page lists only rendered selected files. For all the latest files, go to <a href="http://beta.intuxication.org/passcod/book/browse/tip">the actual Hg repositery</a>.</small></p>
-		<p><small>The font used here <span style="font-size: xx-small">(if you're using a compatible browser, e.g Firefox or Safari)</span> is Diavlo, from <a href="http://www.exljbris.com">exljbris</a></small></p>
-		<br />
-		<p><small>All these pages <span style="font-size: xx-small">(everything within /thebook/, except the Diavlo font and PHP Markdown)</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://passcod.webege.com/thebook" property="cc:attributionName" rel="cc:attributionURL">passcod</a> are licensed under a <span id="license"><span id="license-img"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a></span> <span id="license-text"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>.</span></span></small></p>
-
+		<div id="footer">
+			<p><em>The Book I Dreamt Of</em>&nbsp; by <a xmlns:cc="http://creativecommons.org/ns#" href="http://passcod.webege.com/thebook" property="cc:attributionName" rel="cc:attributionURL">passcod</a> is licensed under a <span id="license"><span id="license-img"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a></span> <span id="license-text"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>.</span></span></p>
+			<p>Design and scripts by me (passcod), GPL'd, sources by request.</p>
+		</div>
 	</body>
 </html>
