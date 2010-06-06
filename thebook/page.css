@@ -26,6 +26,7 @@ h3 {
 
 a, a:visited {
 	text-decoration: underline;
+	cursor: pointer;
 }
 a:hover {
 	text-decoration: none;
