@@ -1,0 +1,321 @@
+a:4:{s:5:"diary";s:4478:"<html>
+	<head>
+		<link href="favicon.png" rel="shortcut icon" />
+		<title>The Book I Dreamt Of</title>
+		<style type="text/css">
+			@import url(page.css);
+		</style>
+	</head>
+	<body>
+		<div id="container">
+		<div>.<a href="index.php" style="float: right;">Back</a></div>
+			<h1>Writing Diary</h1>
+
+<h2>10.22.7</h2>
+
+<p>Yesterday I wrote the first chapter, and introduced 5 of the main 6 characters,
+that is: <em>Lucyn</em>, <em>Pinim</em>, <em>Ale</em>, <em>Luma</em>, and there is one missing of the
+original band of five, that the reader will meet later. There is also <em>Shvn</em>,
+who is in the middle of some sort of initiation ritual, and that should keep
+her occupied for most of half of the book, or until I decide she should come
+out, at least.</p>
+
+<p>I still need to do plenty of work on that chapter, it is very short at the
+moment, and just kept at the bare minimum. This is the hard part for me, as I
+do not like to overwrite, but at the same time, keeping a perfect style all 
+the way through the book is not possible.</p>
+
+<p>Today I found a website called <a href="http://www.fictionaut.com">fictionaut</a>, which is a very good idea: give
+authors around the web the possibility to write and share short fiction, 
+stories. The website says it is still in the invite-only sign up stage, so I
+don't know whether to request one or what... a glance through the member list
+showed all members are <strong>"old"</strong>, over 30 or so... maybe they do not want kids
+messing around.</p>
+
+<p>Lastly, I think I'm pretty decided on keeping <em>The Book I Dreamt Of</em> as the
+final title.</p>
+
+<p>Today was a good day, and I hope there will be more like it!</p>
+
+<h2>10.22.6</h2>
+
+<p>Rewrote the prologue. It changes the focus considerably, but the last week I 
+spent imagining the book, reshaping it and making the story more complex, 
+more alive.</p>
+
+<p>You know, L&eacute;a, I finally chose: it will be 3b+2g. A simple choice
+because the central character is a he... the blind boy of the prologue.</p>
+
+<p>There's still not much to be read, but that will come soon. I am more ready 
+than ever to write, and the only lacking item is time.</p>
+
+<p>I think I'm gonna begin Chapter 1 now... </p>
+
+<h2>10.20.3</h2>
+
+<p>Three weeks have passed since I last wrote here. But I have not
+been inactive in this regard for the last 21 days. I have been
+imagining.</p>
+
+<p>I had the basic idea when I started. But now I've got to immerge myself in this
+universe I have been creating. Why? Well, it's very simple: my characters will
+see, think, speak and act in the way they've always done... all their life, 
+even if they do not exist yet!</p>
+
+<p>I'll also rewrite the prologue. I actually wrote the first one to give me a
+starting point, because I felt that if I didn't write anything, I'd give up the
+idea entirely, without even having begun.</p>
+
+<p>Anyways, I know <em>nobody</em> reads what I write right now, I'm writing it for those
+who, later on, will read this diary.</p>
+
+<p>And also for me.</p>
+
+<h2>10.16.7</h2>
+
+<p>I've written the prologue earlier in the afternoon. It's basically a diary
+entry, 4 years into the future. The irony is it doesn't say anything except
+that something <em>will</em> happen in 49&#46; In fact, it precises the date of the
+first day (the first chapter) to be 49.47.9&#46;</p>
+
+<p>I've thought about the title (if I'm not keeping "The Book I Dreamt Of", of
+course). Nothing geniously great has popped up, but there is that one: "A 
+Tahlr Tale". The first two words are a pun, except you won't look for it in
+the right language: the words are English, but the pun is French. It's not a
+pun to properly speak, English teachers will call it a <em>Mondegreen</em>. Those
+first two words can be made into "&Agrave; t'&agrave; l'heure", which is short
+for "&Agrave; tout &agrave; l'heure", which is french for "See you later". Not
+great, but still.</p>
+
+<p>For this to work, I have to precise the pronounciation of Tahlr. It's TAH-LER.
+The <em>a</em> as in sp<em>a</em>, and the <em>er</em> as in pott<em>er</em>, mann<em>er</em>s, read<em>er</em>. I hope
+you understand.</p>
+
+<p>The (real) title will be determined much later, of course...</p>
+
+<p>One last thing: I need to think about the names of the four main characters --
+2b + 2g, and the last one we'll see when he/she appears.</p>
+
+<p>P.S: Oh, and remind me to look up old and made up languages to create the
+origins of the word (and the country) Tahlr.</p>
+
+		</div>
+	</body>
+</html>
+";s:4:"book";s:3258:"<html>
+	<head>
+		<link href="favicon.png" rel="shortcut icon" />
+		<title>The Book I Dreamt Of</title>
+		<style type="text/css">
+			@import url(page.css);
+		</style>
+	</head>
+	<body>
+		<div id="container">
+		<div>.<a href="index.php" style="float: right;">Back</a></div>
+			<h1>The Book I Dreamt Of</h1>
+
+<h2>Pronunciation</h2>
+
+<h4>Of names and other words native to Talhr</h4>
+
+<p>Each letter has its sound, like Spanish or French. Or latin.</p>
+
+<p>The usual pronunciation rules apply, except:</p>
+
+<ul>
+<li>'y' is pronounced 'ya', or 'yah', with the French 'a', but short and almost
+non-spoken.</li>
+<li>'u' is the french 'u' or latin 'y'.</li>
+<li>'e' is the latin 'e', or the french '&eacute;', and can be approached by the
+english 'ay', as in 'May', or 'eh'. "Ale" is <em>not</em> pronounced like the
+beverage, but a bit like 'Ah-l-eh'.</li>
+<li>'v', in Shvn's language, is pronounced 'uh'. In other languages, it is the
+normal 'v'. "Shvn" is thus pronounced a bit like the English name Sean, and
+like the verb 'to shun'.</li>
+<li>'hr' is 'er', as in 'butter'. The 'h' is not pronounced.</li>
+</ul>
+
+<h2>Characters</h2>
+
+<p>Our five heroes are:</p>
+
+<ul>
+<li><em>Lucyn</em></li>
+<li><em>Pinim</em></li>
+<li><em>Ale</em></li>
+<li><em>Luma</em></li>
+<li><em>???</em></li>
+</ul>
+
+<p>and there is the mysterious <em>Shvn</em>.</p>
+
+<h2>Language</h2>
+
+<p>It will be written in English at the base, but I may write a French translation
+as I go.</p>
+
+<h2>License</h2>
+
+<p>This work of fiction by passcod is licensed under a
+Creative Commons Attribution-Non-commercial-Share-Alike 3.0 Unported License, 
+see <a href="http://passcod.webege.com/thebook">home</a>.</p>
+
+<h2>Disclaimer</h2>
+
+<p>The characters and places in this work of fiction are fictionous, but they are 
+based on real experiences, and therefore on real people and places. However, 
+the fictional places and peoples have no ties to their real counterparts, so I 
+cannot be held liable because anyone feels I have offended them writing 
+something about them or a place in this novel, as I have clearly stated above 
+that this novel is a work of fiction and none of it is real; it may be based on
+real facts, but, as a whole, it is actually fictional.</p>
+
+<h2>Font Face</h2>
+
+<p>The font used is <strong>Diavlo</strong>, by <a href="http://www.josbuivenga.demon.nl/diavlo.html">exljbris</a></p>
+
+<p>It is a free font licensed under the exljbris free license which is outlined
+below:</p>
+
+<h4>exljbris :: Free Quality Font Foundry</h4>
+
+<h5>Font license information</h5>
+
+<ul>
+<li>This font is free for personal and commercial use</li>
+<li>This font file may not be modified</li>
+<li>This font file may not be distributed - not online nor on any media - 
+without Jos Buivenga's permission</li>
+<li>Embedding (in PDF's, Flash files and programs) is allowed</li>
+<li>This font may not be sold</li>
+<li>This font is the intellecual property of Jos Buivenga</li>
+<li>Exljbris (<a href="http://www.josbuivenga.demon.nl">Jos Buivenga</a>) is not liable for any damage resulting from the use
+of this font</li>
+</ul>
+
+<h2>Markdown</h2>
+
+<p>I use <a href="http://daringfireball.net/projects/markdown/">markdown</a> as a writing and storage format, and I thank its creator!</p>
+
+		</div>
+	</body>
+</html>
+";s:8:"prologue";s:1093:"<html>
+	<head>
+		<link href="favicon.png" rel="shortcut icon" />
+		<title>The Book I Dreamt Of</title>
+		<style type="text/css">
+			@import url(page.css);
+		</style>
+	</head>
+	<body>
+		<div id="container">
+		<div>.<a href="index.php" style="float: right;">Back</a></div>
+			<h1>Blanck</h1>
+
+<p>I'm going blind.</p>
+
+<p>I might even never see again: right now, all I can see is blanck, all that dark
+bright black blank landscape. It's happened before, but never this long... or 
+has it? It's difficult to estimate time in blanck: with only my thoughts 
+around, I could have been like that for ten seconds, ten minutes... ten hours.</p>
+
+<p>You probably wonder how I came to be like that. It's a long story, but if you 
+don't mind staying around for a little while, I will show you.</p>
+
+<p>For now, if you could help me, I would be so ever grateful. Move a bit around,
+make yourself comfortable. This could take a little while.</p>
+
+<p>Now</p>
+
+<p>look</p>
+
+<p>down</p>
+
+<p>.</p>
+
+<p>.</p>
+
+<p>.</p>
+
+<p>.</p>
+
+<p>.</p>
+
+<p>.</p>
+
+<p>.</p>
+
+<p>And turn the page.</p>
+
+		</div>
+	</body>
+</html>
+";s:8:"chapter1";s:2364:"<html>
+	<head>
+		<link href="favicon.png" rel="shortcut icon" />
+		<title>The Book I Dreamt Of</title>
+		<style type="text/css">
+			@import url(page.css);
+		</style>
+	</head>
+	<body>
+		<div id="container">
+		<div>.<a href="index.php" style="float: right;">Back</a></div>
+			<h1>Chapter 1</h1>
+
+<h2>28.47.3</h2>
+
+<h3>Pinim</h3>
+
+<p>I am worried about Lucyn. As ever, he smiles, plays, and jokes - and oh do we
+laugh! - but sometimes I see his eyes blur, and his smile strain, and even if
+he laughs away any of my inquiries, saying 'Eh, Pinim, I think <em>your</em> eyes 
+are funny!' I think he hides something, a pain, a wound, something happening 
+to his eyes. But what?</p>
+
+<p>I fear I might not discover that until it's too late. But Lucyn shouldn't hide
+anything from us, we're his friends, after all! I'll talk to the others, maybe
+they know something.</p>
+
+<h3>*</h3>
+
+<h3>Lucyn</h3>
+
+<p>That set me off. I did not think that it was that obvious, and maybe it is more
+serious than I care to think. It's been months that I read Pinim's diary, to
+see what she thinks of Ale... we all know Ale likes her, more than he cares to
+say, except Pinim, who, strangely, seems not to notice. And her diary is no
+more eloquent. But still, I hope that one day she'll see through her glasses, 
+and discover Ale's eyes are shining.</p>
+
+<p>However, today I realised she was busier looking at my eyes. Blurring? That's
+something new. Or maybe it was there since the beginning, only I didn't realise
+ - after all, it never happens in front of a mirror.</p>
+
+<p>If it is that serious that people are starting to see it out in the open, then
+it means there is something wrong. I need to talk about it... but how am I 
+going to explain why I didn't share it earlier?</p>
+
+<p>Tonight is Luma's birthday, tomorrow is another day, the day after will be too
+late... I need time I haven't; but I'll sleep on it and see tomorrow.</p>
+
+<p>Hopefully.</p>
+
+<h3>*</h3>
+
+<h3>Shvn</h3>
+
+<p>I must have been sleeping for too long, because I was hungry when I stood up.
+But as much as I'd like to eat, Zvm made sure I didn't get any before I'd done
+the daily ritual. It is the 93rd day into my Vweke, and the end is still very
+far away - given that I can pass the challenges ahead, for which I am not ready
+at all!</p>
+
+<p>I need to eat now, and to sleep again.</p>
+
+		</div>
+	</body>
+</html>
+";}
